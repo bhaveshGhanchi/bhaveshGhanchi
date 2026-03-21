@@ -45,9 +45,9 @@ A deep dive into networking where I built a TCP-like protocol from scratch.
 
 [![RFTP](https://github-readme-stats.vercel.app/api/pin/?username=bhaveshGhanchi&repo=RFTP&theme=tokyonight)](https://github.com/bhaveshGhanchi/Reliable-File-Transfer-Protocol-rftp-)
 
-[![Code2Text](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Code2Text&theme=tokyonight)](https://github.com/bhaveshGhanchi/codeDocu)
+[![Code2Text](https://github-readme-stats.vercel.app/api/pin/?username=bhaveshGhanchi&repo=Code2Text&theme=tokyonight)](https://github.com/bhaveshGhanchi/codeDocu)
 
-[![OTAS](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=OTAS&theme=tokyonight)](https://github.com/Anirudh-RV/otas)
+[![OTAS](https://github-readme-stats.vercel.app/api/pin/?username=bhaveshGhanchi&repo=OTAS&theme=tokyonight)](https://github.com/Anirudh-RV/otas)
 
 ---
 
