@@ -63,7 +63,7 @@ A deep dive into networking where I built a TCP-like protocol from scratch.
 
 ## 📌 Featured Repositories
 
-[![RFTP](https://github-readme-stats.vercel.app/api/pin/?username=bhaveshGhanchi&repo=RFTP&theme=tokyonight)](https://github.com/bhaveshGhanchi/Reliable-File-Transfer-Protocol-rftp-)
+[![RFTP](https://github-readme-stats.vercel.app/api/pin/?username=bhaveshGhanchi&repo=RFTP&theme=tokyonight)](https://github.com/bhaveshGhanchi/leap)
 
 [![Code2Text](https://github-readme-stats.vercel.app/api/pin/?username=bhaveshGhanchi&repo=codeDocu&theme=tokyonight)](https://github.com/bhaveshGhanchi/codeDocu)
 
