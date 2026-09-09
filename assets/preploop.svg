@@ -100,7 +100,7 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">Interview prep workspace: approach-first coding, system</tspan><tspan dy="1.2em" x="25">design, and STAR stories. Next.js, Supabase, live on</tspan><tspan dy="1.2em" x="25">Vercel.</tspan>
+      <tspan dy="1.2em" x="25">A full-stack interview preparation workspace for deliberate</tspan><tspan dy="1.2em" x="25">coding practice, system design, and behavioral</tspan><tspan dy="1.2em" x="25">storytelling.</tspan>
     </text>
 
     <g transform="translate(30, 75)">
