@@ -14,12 +14,12 @@ I started out making full-stack apps. Then I got curious about what happens afte
 
 [![LEAP](https://github.com/bhaveshGhanchi/bhaveshGhanchi/blob/main/assets/leap.svg?raw=true)](https://github.com/bhaveshGhanchi/leap)
 [![NimbusKV](https://github.com/bhaveshGhanchi/bhaveshGhanchi/blob/main/assets/nimbuskv.svg?raw=true)](https://github.com/bhaveshGhanchi/NimbusKV)
-[![PrepLoop](https://github.com/bhaveshGhanchi/bhaveshGhanchi/blob/main/assets/preploop.svg?raw=true)](https://github.com/bhaveshGhanchi/PrepLoop)
+[![PrepLoop](https://github.com/bhaveshGhanchi/bhaveshGhanchi/blob/main/assets/preploop.svg?raw=true&v=2)](https://github.com/bhaveshGhanchi/PrepLoop)
 [![OTAS](https://github.com/bhaveshGhanchi/bhaveshGhanchi/blob/main/assets/otas.svg?raw=true)](https://github.com/bhaveshGhanchi/otas)
 
 - **[LEAP](https://github.com/bhaveshGhanchi/leap)** — TCP-style reliable transfer over UDP in Java. Sliding window, retries, congestion control, SHA-256 check. [Blog](https://dev.to/bhaveshghanchi/building-tcp-from-scratch-16-why-bother-when-tcp-exists-3aom).
 - **[NimbusKV](https://github.com/bhaveshGhanchi/NimbusKV)** — replicated key-value store in Go. Three nodes, leader election, majority writes. Standard library only.
-- **[PrepLoop](https://github.com/bhaveshGhanchi/PrepLoop)** — interview prep: coding, system design, STAR stories. [Live](https://prep-loop-bhavesh-projects-108.vercel.app).
+- **[PrepLoop](https://github.com/bhaveshGhanchi/PrepLoop)** — A full-stack interview preparation workspace for deliberate coding practice, system design, and behavioral storytelling. [Live](https://prep-loop-bhavesh-projects-108.vercel.app).
 - **[OTAS](https://github.com/bhaveshGhanchi/otas)** — watch agents: what they did, where they failed, what they cost.
 
 ---
