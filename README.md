@@ -12,18 +12,10 @@ I started out making full-stack apps. Then I got curious about what happens afte
 
 ## Pinned work
 
-<a href="https://github.com/bhaveshGhanchi/leap">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaveshGhanchi&repo=leap&hide_border=true" alt="LEAP" />
-</a>
-<a href="https://github.com/bhaveshGhanchi/NimbusKV">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaveshGhanchi&repo=NimbusKV&hide_border=true" alt="NimbusKV" />
-</a>
-<a href="https://github.com/bhaveshGhanchi/PrepLoop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaveshGhanchi&repo=PrepLoop&hide_border=true" alt="PrepLoop" />
-</a>
-<a href="https://github.com/bhaveshGhanchi/otas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaveshGhanchi&repo=otas&hide_border=true" alt="OTAS" />
-</a>
+[![LEAP](https://github-readme-stats.shion.dev/api/pin/?username=bhaveshGhanchi&repo=leap&hide_border=true)](https://github.com/bhaveshGhanchi/leap)
+[![NimbusKV](https://github-readme-stats.shion.dev/api/pin/?username=bhaveshGhanchi&repo=NimbusKV&hide_border=true)](https://github.com/bhaveshGhanchi/NimbusKV)
+[![PrepLoop](https://github-readme-stats.shion.dev/api/pin/?username=bhaveshGhanchi&repo=PrepLoop&hide_border=true)](https://github.com/bhaveshGhanchi/PrepLoop)
+[![OTAS](https://github-readme-stats.shion.dev/api/pin/?username=bhaveshGhanchi&repo=otas&hide_border=true)](https://github.com/bhaveshGhanchi/otas)
 
 - **[LEAP](https://github.com/bhaveshGhanchi/leap)** — TCP-style reliable transfer over UDP in Java. Sliding window, retries, congestion control, SHA-256 check. [Blog](https://dev.to/bhaveshghanchi/building-tcp-from-scratch-16-why-bother-when-tcp-exists-3aom).
 - **[NimbusKV](https://github.com/bhaveshGhanchi/NimbusKV)** — replicated key-value store in Go. Three nodes, leader election, majority writes. Standard library only.
@@ -34,18 +26,8 @@ I started out making full-stack apps. Then I got curious about what happens afte
 
 ## Commits
 
-<a href="https://github.com/bhaveshGhanchi">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhaveshGhanchi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" height="165" />
-</a>
-<a href="https://github.com/bhaveshGhanchi">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshGhanchi&layout=compact&hide_border=true&langs_count=6" alt="Top languages" height="165" />
-</a>
-
-<a href="https://github.com/bhaveshGhanchi">
-  <img src="https://streak-stats.demolab.com?user=bhaveshGhanchi&hide_border=true" alt="Commit streak" />
-</a>
-
-![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=bhaveshGhanchi&radius=16&hide_border=true&area=true)
+![GitHub stats](https://github-readme-stats.shion.dev/api?username=bhaveshGhanchi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=bhaveshGhanchi&layout=compact&hide_border=true&langs_count=6)
 
 ![Contribution snake](https://raw.githubusercontent.com/bhaveshGhanchi/bhaveshGhanchi/output/github-contribution-grid-snake.svg)
 
