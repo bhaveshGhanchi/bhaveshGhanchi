@@ -1,96 +1,56 @@
-# Hey, I'm Bhavesh 👋
+# Hey!
 
-I build software that doesn’t just *work* — it scales, survives load, and behaves well in production.
+I'm **Bhavesh**. Master's in CS at USC, based in Los Angeles.
 
----
+I started out making full-stack apps. Then I got curious about what happens after you hit send: why a request is slow, what packet loss actually does, how a cluster keeps going when one machine dies. Now I bounce between shipping products and poking at systems.
 
-## 🧭 A Bit About Me
+**Java · Python · Go · TypeScript** · Docker and Linux when I can.
 
-I started out in web development, building full-stack applications and shipping features end-to-end. Over time, I got more curious about what happens *behind* those APIs — why systems slow down, how they scale, and what makes them reliable.
-
-That curiosity pulled me toward **backend engineering and infrastructure**.
-
-Now, I like working on problems around:
-- ⚙️ System performance & reliability  
-- 🌐 Distributed systems & networking  
-- 🧱 Backend architecture  
-- 📊 Observability & debugging in production  
+[LinkedIn](https://linkedin.com/in/bhaveshghanchi) · [Email](mailto:bhaveshghanchi27@gmail.com) · [dev.to](https://dev.to/bhaveshghanchi)
 
 ---
 
-## 🛠️ What I Work With
+## Pinned work
 
-**Core:** Python • JavaScript/TypeScript • Java  
-**Backend:** Node.js • Express • FastAPI • REST APIs  
-**Infra & Systems:** Linux • Docker • AWS • GCP • CI/CD  
-**Databases:** PostgreSQL • MongoDB • MySQL  
+<a href="https://github.com/bhaveshGhanchi/leap">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaveshGhanchi&repo=leap&hide_border=true" alt="LEAP" />
+</a>
+<a href="https://github.com/bhaveshGhanchi/NimbusKV">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaveshGhanchi&repo=NimbusKV&hide_border=true" alt="NimbusKV" />
+</a>
+<a href="https://github.com/bhaveshGhanchi/PrepLoop">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaveshGhanchi&repo=PrepLoop&hide_border=true" alt="PrepLoop" />
+</a>
+<a href="https://github.com/bhaveshGhanchi/otas">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaveshGhanchi&repo=otas&hide_border=true" alt="OTAS" />
+</a>
 
-I also occasionally work with **ML systems**, especially when they need to run efficiently in production.
-
----
-
-## 🚀 Things I've Built
-
-### ⚡ A Reliable Transport Protocol (over UDP)
-A deep dive into networking where I built a TCP-like protocol from scratch.
-
-- Handles packet loss, retransmissions, and congestion control  
-- Explores tradeoffs between performance and reliability  
-
-👉 This is where I really got into **low-level systems thinking**
-
----
-
-### 🤖 Code → Documentation (ML + Backend System)
-
-- Trained a model to generate docstrings from code  
-- Built a backend service to serve it in real time  
-- Focused heavily on **latency, memory, and deployment**  
-
-👉 Not just ML — but making ML **usable in production**
+- **[LEAP](https://github.com/bhaveshGhanchi/leap)** — TCP-style reliable transfer over UDP in Java. Sliding window, retries, congestion control, SHA-256 check. [Blog](https://dev.to/bhaveshghanchi/building-tcp-from-scratch-16-why-bother-when-tcp-exists-3aom).
+- **[NimbusKV](https://github.com/bhaveshGhanchi/NimbusKV)** — replicated key-value store in Go. Three nodes, leader election, majority writes. Standard library only.
+- **[PrepLoop](https://github.com/bhaveshGhanchi/PrepLoop)** — interview prep: coding, system design, STAR stories. [Live](https://prep-loop-bhavesh-projects-108.vercel.app).
+- **[OTAS](https://github.com/bhaveshGhanchi/otas)** — watch agents: what they did, where they failed, what they cost.
 
 ---
 
-### 📊 Observability System for Agents
+## Commits
 
-- Built a system to track behavior of multiple agents  
-- Monitored performance, failures, and cost  
-- Added visibility into what systems are actually doing  
+<a href="https://github.com/bhaveshGhanchi">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhaveshGhanchi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" height="165" />
+</a>
+<a href="https://github.com/bhaveshGhanchi">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshGhanchi&layout=compact&hide_border=true&langs_count=6" alt="Top languages" height="165" />
+</a>
 
-👉 This pushed me toward **infra + monitoring mindset**
+<a href="https://github.com/bhaveshGhanchi">
+  <img src="https://streak-stats.demolab.com?user=bhaveshGhanchi&hide_border=true" alt="Commit streak" />
+</a>
 
----
+![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=bhaveshGhanchi&radius=16&hide_border=true&area=true)
 
-## 📌 Featured Repositories
-
-[![LEAP](https://github-readme-stats.vercel.app/api/pin/?username=bhaveshGhanchi&repo=RFTP&theme=tokyonight)](https://github.com/bhaveshGhanchi/leap)
-
-[![Code2Text](https://github-readme-stats.vercel.app/api/pin/?username=bhaveshGhanchi&repo=codeDocu&theme=tokyonight)](https://github.com/bhaveshGhanchi/codeDocu)
-
-[![OTAS](https://github-readme-stats.vercel.app/api/pin/?username=Anirudh-RV&repo=otas&theme=tokyonight)](https://github.com/Anirudh-RV/otas)
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhaveshGhanchi&icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshGhanchi&layout=compact&theme=tokyonight)
+![Contribution snake](https://raw.githubusercontent.com/bhaveshGhanchi/bhaveshGhanchi/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🤝 Connect
+If you read something and it looks off, tell me. I actually want the review.
 
-- 💼 LinkedIn: https://linkedin.com/in/bhaveshghanchi  
-- 📧 Email: bhaveshghanchi27@gmail.com  
-
----
-
-## ⚡ Current Direction
-
-Right now, I’m leaning deeper into **infrastructure + backend systems** — understanding how large-scale systems are designed, deployed, and kept reliable.
-
-If you're working on something in that space, I'd love to collaborate.
-
----
-
-⭐ Always building. Always learning.
+Thanks for stopping by.
